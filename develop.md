@@ -12,5 +12,6 @@
 
 - [ ] pytorch 训练基于原神不同地区的风格图
   - [ ] 如何 finetune cartonGAN
-    - https://colab.research.google.com/github/TobiasSunderdiek/cartoon-gan/blob/master/CartoonGAN.ipynb
-    - https://tobiassunderdiek.github.io/cartoon-gan/
+    - [x] tansfer 网络结构不同，不能直接替换权重文件
+      - https://colab.research.google.com/github/TobiasSunderdiek/cartoon-gan/blob/master/CartoonGAN.ipynb
+      - https://tobiassunderdiek.github.io/cartoon-gan/
